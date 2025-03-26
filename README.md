@@ -48,7 +48,7 @@ This project is a **Movie Library System** implemented in **Java** using **OOP p
 ## 🔧 How to Run
 1. **Clone the repository**:
    ```sh
-   git clone <your-repo-link>
+   git clone https://github.com/LinaAbufaraha/Movie-library-2.git
    ```
 2. **Open the project in IntelliJ IDEA**
 3. **Compile and run `Driver.java`**
